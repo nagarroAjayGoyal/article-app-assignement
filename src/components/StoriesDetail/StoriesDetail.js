@@ -3,6 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import React, { useEffect } from "react";
 import { useSelector } from "react-redux";
 import { useParams } from "react-router-dom";
+import Header from "../Header/Header";
 
 const StoriesDetail = () => {
   const { data } = useSelector((state) => state.stories);
@@ -35,6 +36,7 @@ const StoriesDetail = () => {
 
   return (
     <div className="details-viewpage">
+      <Header />
       <div className="back-btn-container">
         <Link to="/">
           <button className="back-btn">Go Back</button>

@@ -38,6 +38,9 @@ const Dashboard = () => {
   return (
     <div className="app-container">
       <Header />
+      <div className="h3-label">
+        <h3> Most Popular Articles</h3>
+      </div>
       {articles.length > 0 && (
         <>
           <div className="dropdown-container">
