@@ -10,11 +10,8 @@ describe("rendering dropdown component", () => {
   });
 });
 describe("rendering Artical List with List ", () => {
-  const baseProps = {
-    options: FILTER_OPTIONS,
-    onSelect: jest.fn(),
-  };
-  render(<Dropdown baseProps />);
+  const onSelect = jest.fn();
+  render(<Dropdown options={FILTER_OPTIONS} onSelect={onSelect} />);
 
   const dropdown = screen.getByTestId("dropdown");
 

@@ -31,6 +31,15 @@
       "plugin:react/recommended"
     ]
   },
+  "jest": {
+    "collectCoverageFrom": [
+      "!src/index.js",
+      "!src/Slices/storiesSlice.js",
+      "!src/store.js",
+      "!src/reportWebVitals.js",
+      "!src/App.js"
+    ]
+  },
   "browserslist": {
     "production": [
       ">0.2%",
