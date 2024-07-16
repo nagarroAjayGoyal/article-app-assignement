@@ -30,7 +30,7 @@ You can find the coverage report in coverage package coverage/icov-report/index.
 
 Publish the lint report. If any lint issue then shows list of the issues else succeed.
 
-### `yarn build`
+### `npm build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
