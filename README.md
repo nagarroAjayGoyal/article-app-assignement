@@ -48,11 +48,11 @@ Your app is ready to be deployed!
 
 ## Cypress E2E testing
 
-### yarn add cypress
+### npm install cypress
 
 Above command will add cypress into your code
 
-### yarn run cypress open
+### npm run cypress open
 
 It will open cypress window and cofigure some steps to add it into you code
 After writing cypress test cases. In that window it will execute the test cases.
