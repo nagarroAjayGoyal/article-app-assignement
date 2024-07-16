@@ -4,7 +4,7 @@ import "./Header.css";
 const Header = () => {
   return (
     <header>
-      <h1>The New York Times</h1>
+      <h1 data-testid="article-title">The New York Times</h1>
     </header>
   );
 };

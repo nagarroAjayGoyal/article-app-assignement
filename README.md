@@ -45,3 +45,18 @@ Your app is ready to be deployed!
 ### node - 21.0.0
 
 ### npm - 10.2.0
+
+## Cypress E2E testing
+
+### yarn add cypress
+
+Above command will add cypress into your code
+
+### yarn run cypress open
+
+It will open cypress window and cofigure some steps to add it into you code
+After writing cypress test cases. In that window it will execute the test cases.
+
+![alt text](assets/image.png)
+
+![alt text](assets/image-1.png)

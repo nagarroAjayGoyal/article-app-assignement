@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const StoriesCard = ({ title, abstract, id, multimedia }) => {
   return (
     <Link to={`stories/${id}`}>
-      <article className="stories-card">
+      <article className="stories-card" data-testid={`articleCard-${id}`}>
         <h2 className="title">{title}</h2>
         <p>{abstract}</p>
         {multimedia && multimedia["media-metadata"][1] && (

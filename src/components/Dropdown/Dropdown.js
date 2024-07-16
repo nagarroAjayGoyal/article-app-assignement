@@ -21,7 +21,11 @@ const Dropdown = ({ options, onSelect, defaultOption }) => {
       >
         <option value="">Select day</option>
         {options?.map((option) => (
-          <option key={option?.value} value={option?.value}>
+          <option
+            data-testid={option?.value}
+            key={option?.value}
+            value={option?.value}
+          >
             {option?.label}
           </option>
         ))}
