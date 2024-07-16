@@ -30,14 +30,6 @@ const Dashboard = () => {
     return <Loader isLoading={storiesData.loading}></Loader>;
   }
 
-  // const filterArticles = (filterBy) => {
-  //   const filtered = articles.filter(article => {
-  //     return article.section.toLowerCase() === filterBy.toLowerCase() || article.title.toLowerCase().includes(filterBy.toLowerCase());
-  //   });
-  //   setFilteredResults(filtered);
-  //   setFilter(true);
-  // };
-
   const handleSelect = (day) => {
     setdays(day);
     dispatch(fetchTopStories(day));
