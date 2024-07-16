@@ -1,0 +1,30 @@
+.stories-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 3.2em;
+  margin: 2em 2em 7em 2em;
+  flex-grow: 1;
+}
+
+.no-results-msg {
+  text-align: center;
+  margin: 4em;
+}
+
+@media (min-width: 1900px) {
+  .article-list {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 1220px) {
+  .article-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 720px) {
+  .article-list {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

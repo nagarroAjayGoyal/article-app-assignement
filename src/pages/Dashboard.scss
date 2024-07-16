@@ -1,0 +1,23 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.left-header {
+  margin-left: 2%;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.horizontal-divider {
+  width: 95%;
+  opacity: 0.2;
+  color: rgb(205, 199, 199);
+  margin-top: 40px;
+}

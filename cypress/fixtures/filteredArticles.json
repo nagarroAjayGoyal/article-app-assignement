@@ -1,0 +1,69 @@
+[
+  {
+    "section": "us",
+    "subsection": "politics",
+    "title": "Michael Sussmann Is Acquitted in Case Brought by Trump-Era Prosecutor",
+    "abstract": "The Democratic-linked lawyer was accused of lying about his clients to the F.B.I. when he passed on a tip about possible connections between Donald J. Trump and Russia.",
+    "url": "https://www.nytimes.com/2022/05/31/us/politics/michael-sussmann-durham-fbi.html",
+    "uri": "nyt://article/2e504103-04ee-58c9-8724-91aafd9363c6",
+    "byline": "By Charlie Savage",
+    "item_type": "Article",
+    "updated_date": "2022-05-31T15:27:28-04:00",
+    "created_date": "2022-05-31T12:04:58-04:00",
+    "published_date": "2022-05-31T12:04:58-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Suits and Litigation (Civil)",
+      "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+      "Presidential Election of 2016",
+      "Cyberwarfare and Defense",
+      "United States Politics and Government"
+    ],
+    "org_facet": [
+      "Federal Bureau of Investigation",
+      "Alfa Group Consortium",
+      "Trump Organization"
+    ],
+    "per_facet": [
+      "Sussmann, Michael",
+      "Durham, John H",
+      "Trump, Donald J",
+      "Clinton, Hillary Rodham"
+    ],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/05/31/us/politics/31dc-durhamhfo/merlin_207032352_742f9670-262f-4701-8528-b583133cffbd-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1366,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The trial centers on a narrow charge against Michael Sussmann, a prominent cybersecurity lawyer with ties to Democrats.",
+        "copyright": "Samuel Corum for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/05/31/us/politics/31dc-durhamhfo/merlin_207032352_742f9670-262f-4701-8528-b583133cffbd-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The trial centers on a narrow charge against Michael Sussmann, a prominent cybersecurity lawyer with ties to Democrats.",
+        "copyright": "Samuel Corum for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/05/31/us/politics/31dc-durhamhfo/31dc-durhamhfo-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The trial centers on a narrow charge against Michael Sussmann, a prominent cybersecurity lawyer with ties to Democrats.",
+        "copyright": "Samuel Corum for The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3Mb3MSs"
+  }
+]

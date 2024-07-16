@@ -1,0 +1,62 @@
+{
+  "section": "health",
+  "subsection": "",
+  "title": "During the Omicron Wave, Death Rates Soared for Older People",
+  "abstract": "Last year, people 65 and older died from Covid at lower rates than in previous waves. But with Omicron and waning immunity, death rates rose again.",
+  "url": "https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html",
+  "uri": "nyt://article/596a5439-e965-5654-8b9d-70161af1dfdb",
+  "byline": "By Benjamin Mueller and Eleanor Lutz",
+  "item_type": "Article",
+  "updated_date": "2022-05-31T12:40:35-04:00",
+  "created_date": "2022-05-31T12:03:31-04:00",
+  "published_date": "2022-05-31T12:03:31-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+    "Coronavirus Omicron Variant",
+    "Coronavirus Delta Variant",
+    "Disease Rates",
+    "Coronavirus (2019-nCoV)",
+    "Deaths (Fatalities)",
+    "Elderly",
+    "Vaccination and Immunization",
+    "Nursing Homes",
+    "your-feed-science"
+  ],
+  "org_facet": [],
+  "per_facet": [],
+  "geo_facet": [],
+  "multimedia": [
+    {
+      "url": "https://static01.nyt.com/images/2022/05/21/science/virus-deaths-vaccine-protectiveness-1653419739472/virus-deaths-vaccine-protectiveness-1653419739472-superJumbo.jpg",
+      "format": "Super Jumbo",
+      "height": 1344,
+      "width": 2017,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "",
+      "copyright": ""
+    },
+    {
+      "url": "https://static01.nyt.com/images/2022/05/21/science/virus-deaths-vaccine-protectiveness-1653419739472/virus-deaths-vaccine-protectiveness-1653419739472-threeByTwoSmallAt2X.jpg",
+      "format": "threeByTwoSmallAt2X",
+      "height": 400,
+      "width": 600,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "",
+      "copyright": ""
+    },
+    {
+      "url": "https://static01.nyt.com/images/2022/05/21/science/virus-deaths-vaccine-protectiveness-1653419739472/virus-deaths-vaccine-protectiveness-1653419739472-thumbLarge.jpg",
+      "format": "Large Thumbnail",
+      "height": 150,
+      "width": 150,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "",
+      "copyright": ""
+    }
+  ],
+  "short_url": "https://nyti.ms/3GyLIjI"
+}

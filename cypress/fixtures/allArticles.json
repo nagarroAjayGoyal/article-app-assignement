@@ -1,0 +1,246 @@
+[
+  {
+    "section": "health",
+    "subsection": "",
+    "title": "During the Omicron Wave, Death Rates Soared for Older People",
+    "abstract": "Last year, people 65 and older died from Covid at lower rates than in previous waves. But with Omicron and waning immunity, death rates rose again.",
+    "url": "https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html",
+    "uri": "nyt://article/596a5439-e965-5654-8b9d-70161af1dfdb",
+    "byline": "By Benjamin Mueller and Eleanor Lutz",
+    "item_type": "Article",
+    "updated_date": "2022-05-31T12:40:35-04:00",
+    "created_date": "2022-05-31T12:03:31-04:00",
+    "published_date": "2022-05-31T12:03:31-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Coronavirus Omicron Variant",
+      "Coronavirus Delta Variant",
+      "Disease Rates",
+      "Coronavirus (2019-nCoV)",
+      "Deaths (Fatalities)",
+      "Elderly",
+      "Vaccination and Immunization",
+      "Nursing Homes",
+      "your-feed-science"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/05/21/science/virus-deaths-vaccine-protectiveness-1653419739472/virus-deaths-vaccine-protectiveness-1653419739472-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1344,
+        "width": 2017,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": ""
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/05/21/science/virus-deaths-vaccine-protectiveness-1653419739472/virus-deaths-vaccine-protectiveness-1653419739472-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": ""
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/05/21/science/virus-deaths-vaccine-protectiveness-1653419739472/virus-deaths-vaccine-protectiveness-1653419739472-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": ""
+      }
+    ],
+    "short_url": "https://nyti.ms/3GyLIjI"
+  },
+  {
+    "section": "us",
+    "subsection": "politics",
+    "title": "Michael Sussmann Is Acquitted in Case Brought by Trump-Era Prosecutor",
+    "abstract": "The Democratic-linked lawyer was accused of lying about his clients to the F.B.I. when he passed on a tip about possible connections between Donald J. Trump and Russia.",
+    "url": "https://www.nytimes.com/2022/05/31/us/politics/michael-sussmann-durham-fbi.html",
+    "uri": "nyt://article/2e504103-04ee-58c9-8724-91aafd9363c6",
+    "byline": "By Charlie Savage",
+    "item_type": "Article",
+    "updated_date": "2022-05-31T15:27:28-04:00",
+    "created_date": "2022-05-31T12:04:58-04:00",
+    "published_date": "2022-05-31T12:04:58-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Suits and Litigation (Civil)",
+      "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+      "Presidential Election of 2016",
+      "Cyberwarfare and Defense",
+      "United States Politics and Government"
+    ],
+    "org_facet": [
+      "Federal Bureau of Investigation",
+      "Alfa Group Consortium",
+      "Trump Organization"
+    ],
+    "per_facet": [
+      "Sussmann, Michael",
+      "Durham, John H",
+      "Trump, Donald J",
+      "Clinton, Hillary Rodham"
+    ],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/05/31/us/politics/31dc-durhamhfo/merlin_207032352_742f9670-262f-4701-8528-b583133cffbd-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1366,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The trial centers on a narrow charge against Michael Sussmann, a prominent cybersecurity lawyer with ties to Democrats.",
+        "copyright": "Samuel Corum for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/05/31/us/politics/31dc-durhamhfo/merlin_207032352_742f9670-262f-4701-8528-b583133cffbd-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The trial centers on a narrow charge against Michael Sussmann, a prominent cybersecurity lawyer with ties to Democrats.",
+        "copyright": "Samuel Corum for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/05/31/us/politics/31dc-durhamhfo/31dc-durhamhfo-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The trial centers on a narrow charge against Michael Sussmann, a prominent cybersecurity lawyer with ties to Democrats.",
+        "copyright": "Samuel Corum for The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3Mb3MSs"
+  },
+  {
+    "section": "world",
+    "subsection": "asia",
+    "title": "Even as Russia Bears Down in the East, Some Ukrainians Stay Behind",
+    "abstract": "The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region.",
+    "url": "https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html",
+    "uri": "nyt://article/2695bbb9-4c3d-5a17-b5b5-f5118dba8595",
+    "byline": "By Carlotta Gall",
+    "item_type": "Article",
+    "updated_date": "2022-05-31T10:56:59-04:00",
+    "created_date": "2022-05-31T05:00:20-04:00",
+    "published_date": "2022-05-31T05:00:20-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Russian Invasion of Ukraine (2022)",
+      "Humanitarian Aid"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Zelensky, Volodymyr"
+    ],
+    "geo_facet": [
+      "Donbas (Ukraine)",
+      "Ukraine"
+    ],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/05/30/world/30UKRAINE-EAST01/merlin_207680025_c54c0fb5-54e2-4089-9c97-0ec800902f17-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Olena Tyvaniuk walking home to her apartment in the eastern Ukrainian city of Bakhmut. She is not leaving because she cannot find medicine for her 48-year-old son, who has schizophrenia.",
+        "copyright": "Finbarr O’Reilly for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/05/30/world/30UKRAINE-EAST01/merlin_207680025_c54c0fb5-54e2-4089-9c97-0ec800902f17-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Olena Tyvaniuk walking home to her apartment in the eastern Ukrainian city of Bakhmut. She is not leaving because she cannot find medicine for her 48-year-old son, who has schizophrenia.",
+        "copyright": "Finbarr O’Reilly for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/05/30/world/30UKRAINE-EAST01/30UKRAINE-EAST01-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Olena Tyvaniuk walking home to her apartment in the eastern Ukrainian city of Bakhmut. She is not leaving because she cannot find medicine for her 48-year-old son, who has schizophrenia.",
+        "copyright": "Finbarr O’Reilly for The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3t5yoht"
+  },
+  {
+    "section": "world",
+    "subsection": "europe",
+    "title": "Thousands of Sievierodonetsk Civilians Trapped as Russian Forces Advance",
+    "abstract": "The eastern Ukrainian city’s younger residents have largely evacuated, leaving older citizens to bear the brunt of Moscow’s assault.",
+    "url": "https://www.nytimes.com/2022/05/31/world/europe/russia-sievierodonetsk-ukraine-civilians.html",
+    "uri": "nyt://article/1049cf1f-5c1f-5716-b34f-d50dc86fd11e",
+    "byline": "By Matthew Mpoke Bigg",
+    "item_type": "Article",
+    "updated_date": "2022-05-31T14:43:34-04:00",
+    "created_date": "2022-05-31T09:58:47-04:00",
+    "published_date": "2022-05-31T09:58:47-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Russian Invasion of Ukraine (2022)",
+      "Civilian Casualties"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/05/24/world/31ukraine-blog-sievierdonetsk/merlin_207453978_4be79bf9-b096-4ed0-9c3f-2f57e409a0a9-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Residents of an apartment block prepared meals outside in Sievierodonetsk last week, despite nearby Russian bombardment.",
+        "copyright": "Finbarr O'Reilly for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/05/24/world/31ukraine-blog-sievierdonetsk/merlin_207453978_4be79bf9-b096-4ed0-9c3f-2f57e409a0a9-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Residents of an apartment block prepared meals outside in Sievierodonetsk last week, despite nearby Russian bombardment.",
+        "copyright": "Finbarr O'Reilly for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/05/24/world/31ukraine-blog-sievierdonetsk/merlin_207453978_4be79bf9-b096-4ed0-9c3f-2f57e409a0a9-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Residents of an apartment block prepared meals outside in Sievierodonetsk last week, despite nearby Russian bombardment.",
+        "copyright": "Finbarr O'Reilly for The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3m2YNIA"
+  }
+]

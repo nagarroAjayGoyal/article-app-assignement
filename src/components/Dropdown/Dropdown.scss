@@ -1,0 +1,20 @@
+.dropdown {
+  float: right;
+  margin-right: 2%;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.select-day-label {
+  margin-right: 10px;
+  font-size: 1em;
+  font-weight: 500;
+}
+
+select {
+  height: 39px;
+  width: 156px;
+  margin-top: 5px;
+  padding: 8px;
+  border: solid 2px #ebe5e5;
+  background-color: #80808021;
+}
