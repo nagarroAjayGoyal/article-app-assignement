@@ -7,13 +7,13 @@ React app to hit the NY Times Most Popular Articles API and show a list of artic
 
 ## Technical Stack
 
-Web technology - React.JS
-Building Blocks - Java Script
-Styling - CSS
-Managing State - Redux toolkit
-Routing - react router
-API Requests - Axios or Fetch
-Testing - Jest, Cypress
+Web technology - React.JS <br/>
+Building Blocks - Java Script <br/>
+Styling - CSS <br/>
+Managing State - Redux toolkit <br/>
+Routing - react router <br/>
+API Requests - Axios or Fetch <br/>
+Testing - Jest, Cypress <br/>
 
 ## Available Scripts
 
