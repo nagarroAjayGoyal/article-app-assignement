@@ -2,7 +2,18 @@
 
 React app to hit the NY Times Most Popular Articles API and show a list of articles that shows details when items on the list are tapped (a typical master/detail web app).
 
-![alt text](home-page.png)
+![alt text](assets/home-page.png)
+![alt text](assets/article-details.png)
+
+## Technical Stack
+
+Web technology - React.JS
+Building Blocks - Java Script
+Styling - CSS
+Managing State - Redux toolkit
+Routing - react router
+API Requests - Axios or Fetch
+Testing - Jest, Cypress
 
 ## Available Scripts
 
